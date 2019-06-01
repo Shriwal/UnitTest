@@ -18,5 +18,11 @@ namespace DemoLibrary.Tests
 
             Assert.True(actual.Length > 0);
         }
+
+        [Fact]
+        public void ExampleLoadTextFile_InValidNameShouldFail()
+        {
+            Assert.Throws<ArgumentException>("file", () => Examples.ExampleLoadTextFile(""));
+        }
     }
 }
