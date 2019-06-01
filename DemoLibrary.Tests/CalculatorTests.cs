@@ -10,11 +10,12 @@ namespace DemoLibrary.Tests
 {
     public class CalculatorTests
     {
-        public void Add_SimpleValuesShouldCalculate()
+        [Theory]
+        [InlineData(4, 8, 12)]
+        [InlineData(21, 5, 26)]
+        public void Add_SimpleValuesShouldCalculate(double x, double y, double expected)
         {
-            double expected = 5;
-
-            double actual = Calculator.Add(3, 5);
+            double actual = Calculator.Add(x, y);
 
             Assert.Equal(expected, actual);
         }

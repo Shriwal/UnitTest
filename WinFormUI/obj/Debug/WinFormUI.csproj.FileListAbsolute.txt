@@ -37,3 +37,17 @@ C:\Users\Shriwal\Downloads\UnitTest\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCom
 C:\Users\Shriwal\Downloads\UnitTest\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
 C:\Users\Shriwal\Downloads\UnitTest\WinFormUI\obj\Debug\WinFormUI.exe
 C:\Users\Shriwal\Downloads\UnitTest\WinFormUI\obj\Debug\WinFormUI.pdb
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\bin\Debug\PersonText.txt
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\Shriwal\Documents\UnitTest\WinFormUI\obj\Debug\WinFormUI.pdb
